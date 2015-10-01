@@ -10,5 +10,5 @@ npm run gulp
 
 
 ##Features
-- **CSS:** [bootstrap] 
-  - Autoprefixer
+- **CSS:**
+  - LESS
