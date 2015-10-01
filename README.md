@@ -1,11 +1,14 @@
 # my starter kit for mobile sites
 
 ##Usage
-"cd" your directory  
-npm i  
-gulp
+```bash
+git clone https://github.com/yukihoshi/sp_site.git MyApp
+cd MyApp
+npm install
+npm run gulp
+```
 
 
-##Tools
-bootstrap  
-jquery  
+##Features
+- **CSS:** [bootstrap] 
+  - Autoprefixer
