@@ -1,3 +1,3 @@
-# starter kit for mobile sites
-npm i
+# my starter kit for mobile sites
+npm i  
 gulp
