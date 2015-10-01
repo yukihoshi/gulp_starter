@@ -1,2 +1,3 @@
-# miyazaki.github.com
-up up girls tour miyazaki and kumamoto
+# starter kit for mobile sites
+npm i
+gulp
