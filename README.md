@@ -1,6 +1,6 @@
 # my starter kit for mobile sites
 
-##Usage
+##Installation
 ```bash
 git clone https://github.com/yukihoshi/sp_site.git MyApp
 cd MyApp
@@ -10,5 +10,9 @@ npm run gulp
 
 
 ##Features
-- **CSS:**
-  - LESS
+- Gulp
+- Less
+- Sass
+- Autoprefixr
+- BrowserSync
+- Imagemin
