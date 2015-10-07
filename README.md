@@ -1,4 +1,4 @@
-# my starter kit for mobile sites
+# starter kit for a small 
 
 ##Installation
 ```bash
@@ -8,11 +8,13 @@ npm install
 npm run gulp
 ```
 
-
 ##Features
+This allows you to use...
 - Gulp
 - Less
 - Sass
 - Autoprefixr
 - BrowserSync
 - Imagemin
+- Bootstrap
+- jQuery
