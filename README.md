@@ -1,4 +1,4 @@
-# starter kit for a small 
+# my first gulp task
 
 ##Installation
 ```bash
@@ -12,9 +12,13 @@ npm run gulp
 This allows you to use...
 - Gulp
 - Less
-- Sass
+- Sass (optional)
 - Autoprefixr
 - BrowserSync
 - Imagemin
 - Bootstrap
 - jQuery
+
+
+##Usage
+edit and add files in the src directory, the final production goes to the dist directory. 
