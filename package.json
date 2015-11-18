@@ -1,7 +1,7 @@
 {
-  "name": "miyazaki.github.com",
+  "name": "gulup_starter",
   "version": "1.0.0",
-  "description": "up up girls tour miyazaki and kumamoto",
+  "description": "gulp_starter",
   "scripts": {
     "postinstall": "bower install; preen; bash bootstrap.sh",
     "start": "gulp",
